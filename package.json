@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.10",
+    "dotenv": "^16.5.0",
+    "tailwindcss": "^4.1.10"
+  },
+  "devDependencies": {
+    "daisyui": "^5.0.43"
+  }
+}
